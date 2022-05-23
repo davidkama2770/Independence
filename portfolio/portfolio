@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylez.css">
+    <title>Document</title>
+</head>
+
+
+</head>
+<body>
+    <header>
+            <div>
+            <P class="head"><span class="logo">D.</span>kama</P>
+            </div>
+            <div>
+            <ul>
+                <li><a href="containe_9">Home</a></li>
+                <li><a href="index6.html">project</a></li>
+                <li><a href="index7.html">Contact</a></li>
+            </ul>
+            </div>  
+    </header>
+
+<main>
+    <section class="Container_1">
+        <div class="intro">
+            <h1>I AM A FRONTEND DEVELOPER</h1>
+            <p class="about_f">This is the porfolio of a very experience business web developer and this portfolio contain valid information.I dont know if my portfolio decribe me enough but i know i am just too good to be decribed what my brain and hands can do you would not be able tell until you have work with me.</p>
+            <p class="view"><a href="index10.html">view about me <meta name="description" content=""></a></p>
+        </div>
+
+    </section>
+    <section class="my_self">
+        <img class="image2" src="kama5.jpeg" alt="MY SEFT"width="300"height="300">
+        <div class="about_me">
+            <h2>DAVID</h2>
+        <P class="about_i">I graduated from havard university with an A+ degree,I started coding since i was 12years old and ever since then i was a frontend developer thats why i decided to futher my education by studying computer science.This porfolio will tell you all the necessary info about me.Note:this does not describe all about me,they are just few things you need to know about me for the time being,work with me to know more.</P>
+       </div>
+    </section>
+
+    <section class="container_2">
+        <div class="tools">
+           <h3>MY WORKING TOOLS</h3>
+
+           <ol>
+               <li>Computer</li>
+               <li>My skill</li>
+               <li>My intelligence</li>
+               <Li>My flash</Li>
+               <li>And of course myself</li>
+           </ol>
+        </div>
+        
+        <img src="computer tools.jpg" alt="TOOLS"width="400pm"hieght="480pm">
+    </section>
+    <section class="height">
+        <h2>HEIGHT AND GOALS</h2>
+        <Div class="experience">
+            <img src="software.jpg" alt="ll"width="300pm"hieght="380pm">
+        <img src="software1.jpg" alt="ll"width="300pm"hieght="380pm">
+        <img src="software2.jpg" alt="ll"width="300pm"hieght="380pm">
+        <img src="software3.jpg" alt="ll"width="300pm"hieght="380pm">
+    </Div>
+    </section>
+    <section class="contact">
+        <h3>CONTACT ME ON THIS SOCAIL MEDIA PLATFORMS</h3>
+        <div class="platforms">
+            <img src="icons.jpg" alt="ICONS"width="400pm"height="">
+        </div>
+        <label class="user1">user name:</label><a href="@davidkama15">@davidkama15</a>
+    </section>
+</main>
+ 
+
+
+
+    
+
+    
+</body>
+</html>

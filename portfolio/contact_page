@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <SEction>
+        <img src="contact page.jpg" alt="MY CONTACT" width="600"heigth=600>
+    </SEction>
+    <h4>
+    <Label for="phone">Telephone:</Label><a href="08080871483">080801483</a>
+    <Label for="email">Email Address:</Label><a href="omietekama15@gmail.com">omietekama15@gmail.com</a>
+    </h4>
+
+<P>
+    
+</P>
+</body>
+</html>

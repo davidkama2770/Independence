@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=im, initial-scale=1.0">
+    <link rel="stylesheet" href="style7.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <main>
+    <section class="first image">
+        <a href="portfolio"><img src="home page.jpg" alt="HOME"width="350"height="300"></a><a href="containe_9">BACK TO HOME</a>
+    </section>
+    <section class="second image">
+        <a href="cv_page"><img src="cv photo.jpg" alt="PROJECT"width="350"height="300"></a><a href="container_7">MY cv</a>
+    </section>
+    <section class="third image">
+        <a href="letter_page"> <img src="letter page.jpg" alt="CONTACT"width="350"height="300"></a><a href="container_8">MY LETTER</a>
+    </section>
+</main>
+
+
+</body>
+</html>

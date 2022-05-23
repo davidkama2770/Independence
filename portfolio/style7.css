@@ -1,0 +1,8 @@
+main{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+
+}
